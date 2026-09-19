@@ -1,0 +1,24 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Environment files
+.env
+venv/
+env/
+.venv/
+
+# Generated runtime outputs
+*.log
+telemetry_production_log.csv
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

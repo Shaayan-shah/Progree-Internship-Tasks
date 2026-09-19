@@ -1,0 +1,11 @@
+🎉 Excited to announce that I have officially joined Progree as a Robotics & Automation Engineering Intern! 🚀🤖
+
+During this internship, I will be working on exciting real-world engineering challenges, including:
+🔹 Designing and tuning closed-loop PID control systems for autonomous mobile robots
+🔹 Modeling multi-axis robotic arm kinematics (Forward & Inverse Kinematics) for precision pick-and-place
+🔹 Architecting smart industrial automation lines with multi-sensor sorting and edge telemetry
+🔹 Developing robust PLC ladder logic and failsafe automation sequencing
+
+I am eager to learn, build, and collaborate with inspiring mentors and peers. A huge thank you to Progree for this incredible opportunity!
+
+#Progree #robotics #automation #engineering #progress #internship #embedded #controlsystems #careergoals

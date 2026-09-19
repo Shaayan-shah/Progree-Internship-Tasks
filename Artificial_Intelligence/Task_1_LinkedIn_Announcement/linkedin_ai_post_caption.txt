@@ -1,0 +1,11 @@
+🚀 Excited to share that I have officially started my Artificial Intelligence Internship journey with Progree! 🤖💡
+
+Over the course of this internship, I will be building and deploying practical, production-ready AI systems:
+🔹 Natural Language Processing (NLP) multi-class text sentiment classifiers using TF-IDF & Scikit-Learn
+🔹 Intelligent heuristic graph pathfinding engines (A* Search & Dijkstra) for autonomous maze navigation
+🔹 Real-time Computer Vision pipelines using OpenCV & deep learning for object contour segmentation & tracking
+🔹 High-performance model evaluation and inference benchmarking
+
+Looking forward to sharpening my machine learning engineering skills, solving real problems, and sharing my progress! Thank you, Progree!
+
+#ai #artificialintelligence #nlp #progree #machinelearning #computervision #datascience #internship
