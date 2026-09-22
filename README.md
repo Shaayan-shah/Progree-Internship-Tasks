@@ -34,6 +34,7 @@ Progree_Internship_Tasks/
 |-- LICENSE
 |-- .gitignore
 |-- README.md
+|-- test_all.py
 |-- Robotics_and_Automation/
 |   |-- Task_1_LinkedIn_Announcement/
 |   |   |-- Task_1_LinkedIn_Announcement.docx
@@ -106,6 +107,12 @@ Core dependencies include:
 ## Execution Guide
 
 All scripts can be executed directly from the repository root directory.
+
+### Automated Verification Suite
+Run the full verification test suite covering all robotics, kinematics, search algorithms, and machine learning pipelines:
+```bash
+python test_all.py
+```
 
 ### Robotics and Automation
 
