@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
+[![CI](https://github.com/Shaayan-shah/Progree-Internship-Tasks/actions/workflows/ci.yml/badge.svg)](https://github.com/Shaayan-shah/Progree-Internship-Tasks/actions/workflows/ci.yml)
 [![Organization: Progree](https://img.shields.io/badge/Organization-Progree-blueviolet.svg)](https://github.com/Shaayan-shah)
 
 Engineering implementation files and documentation deliverables for the Progree Internship Program across two technical specializations: Robotics & Automation and Artificial Intelligence.
